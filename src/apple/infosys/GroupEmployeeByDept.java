@@ -23,7 +23,6 @@ class Employee{
 	}
 }
 
-
 public class GroupEmployeeByDept {
 
 	public static void main(String[] args) {

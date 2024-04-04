@@ -22,5 +22,4 @@ public class MostDuplicatedString {
         
         System.out.println(output);
 	  }
-
 }
