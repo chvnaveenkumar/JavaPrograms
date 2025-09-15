@@ -1,4 +1,4 @@
-package datastructure.arrays;
+package ds.arrays;
 
 public class Array1InsertElements {
 
